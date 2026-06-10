@@ -1,0 +1,27 @@
+# Cache de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales locales
+.venv/
+venv/
+ENV/
+env/
+
+# Archivos generados por el organizador (Historial local de pruebas)
+.historial_movimientos.json
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Archivos de configuración de IDEs y editores (opcional)
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
